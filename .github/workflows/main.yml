@@ -1,5 +1,7 @@
 name: Docker Build & Push
 
+permissions: write-all
+
 on:
   push:
     branches:
